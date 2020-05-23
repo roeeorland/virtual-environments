@@ -1,0 +1,12 @@
+nltk
+spacy
+gensim
+scikit-learn
+numpy
+pandas
+keras
+tensorflow
+tensorflow-hub
+detectormorse
+jupyter
+matplotlib
